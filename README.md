@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently working on air pollution exposure modeling in greater Paris region (France)
+- ⚡ PhD student at Ecole des Ponts Paristech
+- 📫 How to reach me: marjolaine.lannes@enpc.fr
+- 😄 Pronouns: she/her
+
 <!--
 **marjolainelannes/marjolainelannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
