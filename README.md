@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on air pollution exposure modeling in greater Paris region (France)
-- ⚡ PhD student at Ecole des Ponts Paristech
+- 🎓 I'm a PhD student in air quality and mobility modeling at LVMT and CEREA labs
+- 🌱 My research focuses on air pollution exposure modeling in greater Paris region (France)
+- ⚡ I am also interested in science outreach
 - 📫 How to reach me: marjolaine.lannes@enpc.fr
 - 😄 Pronouns: she/her
 
